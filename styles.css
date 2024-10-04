@@ -35,7 +35,7 @@ body {
     position: relative;
     display: flex; 
     justify-content: space-between;
-    flex-wrap: wrap;
+    flex-wrap: wrap;   /*navigaton bar elemanları ekrana sığmadığında alt alta gözükür.*/
     
 }
 
